@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sensores</string>
+    <string name="lista">Sensores en este dispositivo:</string>
+</resources>
